@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório Java.
 
-Este espaço é dedicado ao registro do meu aprendizado na disciplina de ** Programação Orientada a Objetos (POO)** da Universidade Paulista (UNIP), ministrada pelo Prof. Saulo Silva Rosa.
+Este espaço é dedicado ao registro do meu aprendizado na disciplina de **Programação Orientada a Objetos (POO)** da Universidade Paulista (UNIP), ministrada pelo Prof. Saulo Silva Rosa.
  
 Todos os códigos presentes aqui foram desenvolvidos durante as aulas práticas em laboratório, seguindo estritamente os roteiros propostos na disciplina. Eles também servem como base prática para elaboração dos relatórios técnicos finais sobre a linguagem e os conceitos de POO abordados (como classes, métodos, herança, threads, etc.).
 
