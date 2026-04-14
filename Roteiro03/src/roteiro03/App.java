@@ -23,6 +23,7 @@ public class App {
 
                     Gerente gerente = new Gerente(nomeGerente, salarioGerente, bonusGerente);
                     System.out.println("\nDados do Gerente:");
+                    System.out.println("Salário com bônus: " + gerente.calcularSalarioComBonus());
                     gerente.exibirDados();
                     break;
 
