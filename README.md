@@ -14,6 +14,8 @@ Aqui estão as aulas práticas realizadas ao longo do semestre. Clique em cada u
 
 * [Roteiro 01 - Introdução à POO e Entrada de Dados](./Roteiro01)
 * [Roteiro 02 - Controle de Fluxo em Java Estrutura Condicionais e Estruturas de Repetição](./Roteiro02)
+* [Roteiro 03 - Encapsulamento, Construtores, Sobrecarga, Herança e Sobrescrita](./Roteiro03)
+* [Roteiro 04 - Herança, Sobrescrita e CRUD de Alunos](./Roteiro04)
 
 ---
 
